@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "cy:run": "cypress run",
-    "cy:parallel": "cypress-parallel -s cy:run -t 2 -d 'cypress/e2e/**/*.cy.js'"
+    "cy:run": "cypress run"
   },
   "keywords": [],
   "author": "",
